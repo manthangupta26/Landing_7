@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0; 
+    font-family: poppins,sans-serif;
+}
+
+.nav-item:hover{
+    cursor: grab;
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+span{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+h3 img{
+    margin-left: 10px;
+    margin-top: -30px;
+}
+
+.head{
+    margin-top: 40px;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+#circle {
+    background: #fa6833;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+#text{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #1d1d1d;
+}
+
+.text{
+    margin-top: 20px;
+    color: #989292;
+}
+
+.action-btn1{
+    background-color: #fa6833;
+    border-radius: 2rem;
+    color: #fff;
+    font-size: 20px;
+    padding: 1em 1em;
+    text-align: center;
+    margin-top: 62px;
+}
+
+.action-btn2{
+    background-color: #fa6833;
+    border-radius: 2rem;
+    color: #fff;
+    font-size: 20px;
+    padding: 1em 1em;
+    text-align: center;
+    margin-top: 62px;
+    margin-left: 20px;
+}
+.action-btn{
+    background-color: #fa6833;
+    border-radius: 2rem;
+    color: #fff;
+    font-size: 20px;
+    padding: 1em 1em;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 230px;
+    margin-left: 230px;
+    margin-bottom: 20px;
+}
+
+.discount-content{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.dottomato-dot{
+    background: #fa3333;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.dotyellow-dot{
+    background: #fae633;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;   
+}
+
+.dotblack-dot{
+    background: #1e1919;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}

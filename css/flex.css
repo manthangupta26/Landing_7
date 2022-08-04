@@ -1,0 +1,67 @@
+
+.top{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: -50px;
+    outline: none;
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    justify-content: space-around;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+.intro-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.left-section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    flex: 2;
+}
+
+h3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 90px;
+    font-size: 30px;
+    margin-bottom: -40px;
+}
+
+.sub-headlines{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h5{
+    display: flex;
+    justify-content: flex-start ;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.right-section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.headphone-div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.dots{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 300px 0 300px;
+}
