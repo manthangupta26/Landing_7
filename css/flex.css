@@ -65,3 +65,12 @@ h5{
     justify-content: space-between;
     margin: 0 300px 0 300px;
 }
+
+@media only screen and (max-width: 768px) {
+    .nav-item{
+        display: none;
+    }
+    .right-section{
+        display: none;
+    }
+}
